@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Node.js
+node_modules/
+frontend/node_modules/
+frontend/dist/
+dist/
+.vite/
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Large generated telemetry datasets
+data/simulated/energy_telemetry.csv
+data/processed/battery_management_telemetry.csv
+data/processed/picogrid_master_dataset.csv
+
+# Test and coverage artifacts
+.pytest_cache/
+coverage/
