@@ -1,6 +1,36 @@
 \# PicoGrid — IoT Energy Monitoring \& Analytics Platform
 
+## Dashboard Preview
 
+PicoGrid provides an interactive energy monitoring and analytics dashboard for exploring solar generation, energy consumption, grid interaction, and battery performance.
+
+### Energy Monitoring Dashboard
+
+![PicoGrid Dashboard Overview](docs/images/dashboard-overview.png)
+
+### Monthly Energy Analytics
+
+Compare monthly solar generation, energy consumption, and grid interaction.
+
+![Monthly Generation vs Consumption](docs/images/monthly-generation-consumption.png)
+
+![Monthly Grid Import vs Export](docs/images/monthly-grid-analytics.png)
+
+### Daily Energy Analytics
+
+Explore daily energy generation, consumption, and grid interaction.
+
+![Daily Analytics Overview](docs/images/daily-analytics.png)
+
+![Daily Solar Generation](docs/images/daily-solar-generation.png)
+
+![Daily Grid Import vs Export](docs/images/daily-grid-analytics.png)
+
+### Battery Monitoring
+
+Track battery state of charge and battery performance.
+
+![Battery State of Charge](docs/images/battery-soc.png)
 
 \*\*A data-driven platform for monitoring, analysing, and understanding solar energy systems.\*\*
 
